@@ -1,26 +1,28 @@
 # Basic Information 
-title: Your Name
+title: Wuyang Liu
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Wuhan University
+email: liuwuyang (at) whu.edu.cn
+self_description: "Post-rock enthusiast\nAmateur guitarist\nDota 2 veteran (15 years and counting)"
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Wuyang Liu, 刘武洋, Wuhan University, WHU, Ph.D. Student, AI researcher, machine learning, multi-modal learning
+description: Wuyang Liu (刘武洋) is a Ph.D. student at Wuhan University (WHU), specializing in audio signal processing, machine learning and multi-modal large language models.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=CqMd35sAAAAJ&hl=zh-CN
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/dzdydx
+# linkedin: https://www.linkedin.com/in/liuwuyang/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/me.jpeg
+avatar2: ./assets/img/avatar2.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
