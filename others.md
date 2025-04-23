@@ -14,7 +14,7 @@ Dota 2 is my eternal game. Since my first match in 2010, I’ve logged 15 years 
 
 I enjoy literature and films since I was a kid. I recently rewatched [The Newsroom](https://www.imdb.com/title/tt1870479/) —its idealism still gives me chills.
 
-Back when the internet was *open*, I volunteered with the [Global Translator Community (GTC)](https://www.coursera.support/s/gtc-page), subtitling Coursera courses and The Daily Show (Jon Stewart era) for Chinese audiences.
+Back when the Internet was *open*, I volunteered with the [Global Translator Community (GTC)](https://www.coursera.support/s/gtc-page), subtitling Coursera courses and The Daily Show (Jon Stewart era) for Chinese audiences.
 
 I’ve spent years chasing passions beyond the "correct" path. Sometimes, under peer pressure, I wonder if I’ve "wasted" too much time—but these experiences define me more than any line on my CV. Amid career pursuits, I've never stopped guarding my idealism and romance, resisting the pull of cynicism. If you’re reading this, I hope you’ve kept that flame alive too.
 
